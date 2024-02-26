@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="1">
+
+  <testsuite name="test.test"
+    errors="0" failures="1" hostname="" id="" package="test" skipped="0"
+    tests="1" time="16.98" timestamp="">
+  
+    <testcase name="Demo test Google" classname="test.test" time="8.489" assertions="3">
+
+    
+
+      <failure message="Timed out while waiting for element &lt;button[name=&#34;btnK&#34;]&gt; to be present for 1000 milliseconds. - expected &#34;visible&#34; but got: &#34;not found&#34; (1036ms)">    at Object.Demo test Google (/home/nashtech/Desktop/NWjs/test/test.js:9:10)</failure>
+
+    
+    </testcase>
+  
+
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="1">
+
+  <testsuite name="test.test.hooks"
+    errors="0" failures="1" hostname="" id="" package="test.hooks" skipped="1"
+    tests="1" time="7.862" timestamp="">
+  
+    <testcase name="Should verify page title" classname="test.test.hooks" time="3.921" assertions="1">  <failure message="Cannot read properties of undefined (reading &#39;titleEquals&#39;)">TypeError: Cannot read properties of undefined (reading &#39;titleEquals&#39;)
+    at Object.Should verify page title (/home/nashtech/Desktop/NWjs/test/test.hooks.js:23:30)</failure>
+
+    
+    </testcase>
+  
+
+  
+
+    
+
+  
+    
+    <testcase
+      name="Should verify page url" classname="test.test.hooks">
+      <skipped />
+    </testcase>
+    
+  
+  </testsuite>
+</testsuites>

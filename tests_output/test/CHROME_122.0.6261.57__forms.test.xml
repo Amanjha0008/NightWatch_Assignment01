@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="8">
+
+  <testsuite name="test.forms.test"
+    errors="0" failures="0" hostname="" id="" package="forms.test" skipped="0"
+    tests="8" time="12.32" timestamp="">
+  
+    <testcase name="Test Case 1: Verify Login Page-Should successfully fill out the login form using valid username and password" classname="test.forms.test" time="3.529" assertions="1">
+
+    
+    </testcase>
+  
+    <testcase name="Test Case 2: Verify Login Page-After successful login, the user is directed to the correct landing page/dashboard." classname="test.forms.test" time="0.3530" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Test Case 3: Verify Login Page-Should verify error message when the  form is not filled out and submitted" classname="test.forms.test" time="0.1180" assertions="1">
+
+    
+    </testcase>
+  
+    <testcase name="Test Case 4: Verify Login Page-Should verify error message when the  form with correct username &amp; incorrect password" classname="test.forms.test" time="0.2290" assertions="1">
+
+    
+    </testcase>
+  
+    <testcase name="Test Case 5: Verify Login Page-Should successfully fill out the login form using valid username and password" classname="test.forms.test" time="0.2690" assertions="1">
+
+    
+    </testcase>
+  
+    <testcase name="Test Case 1: Verify Product Page-Should successfully fill out the login form using valid username and password" classname="test.forms.test" time="0.5520" assertions="5">
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Test Case 2: Verify Product button,add to cart, remove will executed properly" classname="test.forms.test" time="0.4160" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Test Case 3: Verify Checkout button successfully executed" classname="test.forms.test" time="0.6280" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>
