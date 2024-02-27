@@ -23,7 +23,7 @@ module.exports = {
        done()
     },
 
-    eporter: (results, done) => {
+    reporter: (results, done) => {
         fs.writeFile('testresults.json', JSON.stringify(results, null, '\t'), (err) => {
             if (err) throw err;
 
