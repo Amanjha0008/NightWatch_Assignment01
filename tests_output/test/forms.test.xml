@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="1"
+            failures="0"
+            tests="0">
+
+  <testsuite name="test.forms.test"
+    errors="1" failures="0" hostname="" id="" package="forms.test" skipped="7"
+    tests="0" time="0.002000" timestamp="">
+  
+
+  
+    <system-err>
+       An error occurred while creating a new ChromeDriver session: [Error] Server terminated early with status 1
+  Verify if ChromeDriver is configured correctly; using:
+  {
+     start_process: true,
+     server_path: &#39;./drivers/chromedriver&#39;,
+     port: 9515,
+     host: &#39;localhost&#39;,
+     ssl: false,
+     default_path_prefix: &#39;&#39;,
+     proxy: undefined,
+     cli_args: []
+  }
+
+ 
+  More info might be available in the log file: /home/nashtech/Desktop/NWProject/logs/test/forms.test_chromedriver.log
+    </system-err>
+  
+
+    
+    <error message="An error occurred while creating a new ChromeDriver session: [Error] Server terminated early with status 1"><![CDATA[
+      Error: An error occurred while creating a new ChromeDriver session: [Error] Server terminated early with status 1
+    at /home/nashtech/Desktop/NWProject/node_modules/selenium-webdriver/remote/index.js:259:24
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+      ]]></error>  
+
+  
+    
+    <testcase
+      name="Test Case 1: Verify Login Page-Should successfully fill out the login form using valid username and password" classname="test.forms.test">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="Test Case 2: Verify Login Page-After successful login, the user is directed to the correct landing page/dashboard." classname="test.forms.test">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="Test Case 3: Verify Login Page-Should verify error message when the  form is not filled out and submitted" classname="test.forms.test">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="Test Case 4: Verify Login Page-Should verify error message when the  form with correct username &amp; incorrect password" classname="test.forms.test">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="Test Case 5: Verify Login Page-Should successfully fill out the login form using valid username and password" classname="test.forms.test">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="Test Case 1: Verify Product Page-Should successfully fill out the login form using valid username and password" classname="test.forms.test">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="Test Case 2: Verify Product button,add to cart, remove will executed properly" classname="test.forms.test">
+      <skipped />
+    </testcase>
+    
+  
+  </testsuite>
+</testsuites>

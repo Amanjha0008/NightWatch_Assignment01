@@ -1,0 +1,49 @@
+info: before {"timestamp":"2024-02-26T18:05:21.592Z"}
+info: before Each {"timestamp":"2024-02-26T18:05:24.061Z"}
+info: before Each {"timestamp":"2024-02-26T18:05:24.107Z"}
+info: before Each {"timestamp":"2024-02-26T18:05:24.267Z"}
+info: before Each {"timestamp":"2024-02-26T18:05:24.261Z"}
+info: after each {"timestamp":"2024-02-26T18:05:24.293Z"}
+info: before Each {"timestamp":"2024-02-26T18:05:24.505Z"}
+info: before Each {"timestamp":"2024-02-26T18:05:24.572Z"}
+info: before Each {"timestamp":"2024-02-26T18:05:24.587Z"}
+info: before Each {"timestamp":"2024-02-26T18:05:24.685Z"}
+info: after each {"timestamp":"2024-02-26T18:05:30.109Z"}
+info: after each {"timestamp":"2024-02-26T18:05:31.103Z"}
+info: after each {"timestamp":"2024-02-26T18:05:31.962Z"}
+info: after each {"timestamp":"2024-02-26T18:05:33.725Z"}
+info: after each {"timestamp":"2024-02-26T18:05:34.756Z"}
+info: Total amount: {"timestamp":"2024-02-26T18:05:39.134Z"}
+info: Total amount extracted: {"timestamp":"2024-02-26T18:05:39.135Z"}
+info: Test suite finished. {"timestamp":"2024-02-26T18:05:39.271Z"}
+info: after each {"timestamp":"2024-02-26T18:05:39.432Z"}
+info: after each {"timestamp":"2024-02-26T18:05:41.531Z"}
+info: after {"timestamp":"2024-02-26T18:05:41.615Z"}
+info: before {"timestamp":"2024-02-26T18:06:32.036Z"}
+info: before Each {"timestamp":"2024-02-26T18:06:34.501Z"}
+info: before Each {"timestamp":"2024-02-26T18:06:34.513Z"}
+info: after each {"timestamp":"2024-02-26T18:06:34.553Z"}
+info: before Each {"timestamp":"2024-02-26T18:06:35.100Z"}
+info: before Each {"timestamp":"2024-02-26T18:06:35.097Z"}
+info: before Each {"timestamp":"2024-02-26T18:06:35.122Z"}
+info: before Each {"timestamp":"2024-02-26T18:06:35.153Z"}
+info: before Each {"timestamp":"2024-02-26T18:06:35.337Z"}
+info: before Each {"timestamp":"2024-02-26T18:06:35.353Z"}
+info: after each {"timestamp":"2024-02-26T18:06:40.698Z"}
+info: after each {"timestamp":"2024-02-26T18:06:41.121Z"}
+info: after each {"timestamp":"2024-02-26T18:06:42.483Z"}
+info: after each {"timestamp":"2024-02-26T18:06:43.164Z"}
+info: after each {"timestamp":"2024-02-26T18:06:43.769Z"}
+info: Total amount: {"timestamp":"2024-02-26T18:06:48.159Z"}
+info: Total amount extracted: {"timestamp":"2024-02-26T18:06:48.159Z"}
+info: Test suite finished. {"timestamp":"2024-02-26T18:06:48.282Z"}
+info: after each {"timestamp":"2024-02-26T18:06:48.443Z"}
+info: after each {"timestamp":"2024-02-26T18:06:50.672Z"}
+info: after {"timestamp":"2024-02-26T18:06:50.742Z"}
+info: before {"timestamp":"2024-02-26T18:16:43.874Z"}
+info: before Each {"timestamp":"2024-02-26T18:16:44.771Z"}
+info: Total amount: {"timestamp":"2024-02-26T18:16:50.808Z"}
+info: Total amount extracted: {"timestamp":"2024-02-26T18:16:50.808Z"}
+info: Test suite finished. {"timestamp":"2024-02-26T18:16:50.880Z"}
+info: after each {"timestamp":"2024-02-26T18:16:51.006Z"}
+info: after {"timestamp":"2024-02-26T18:16:51.059Z"}
